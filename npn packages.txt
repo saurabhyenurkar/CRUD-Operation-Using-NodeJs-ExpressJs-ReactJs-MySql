@@ -1,0 +1,6 @@
+YouTube Video: https://www.youtube.com/watch?v=y5NvOade3sk&list=WL&index=1
+server:
+npm install express mysql cors nodemon
+frontend:
+npm install axios react-router-dom
+npm install react-bootstrap bootstrap
