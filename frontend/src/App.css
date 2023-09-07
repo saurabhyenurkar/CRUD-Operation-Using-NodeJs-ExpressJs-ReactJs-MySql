@@ -1,0 +1,23 @@
+.sss{
+    list-style-type: none;
+    letter-spacing: 20px;
+}
+
+.justifier{
+    text-align: justify;
+}
+.editfooter{
+    position: relative;
+    bottom: -20px;
+}
+.ancle{
+    text-decoration: none;
+}
+@media (max-width: 480px) {
+    .sss{
+        width: 110px;
+        position: relative;
+        left: 28%;
+        
+    }
+  }
